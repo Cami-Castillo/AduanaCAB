@@ -3,6 +3,7 @@
 AduanaCAB es un prototipo de sistema web orientado a la gestión y control de trámites fronterizos, permitiendo la interacción entre turistas, funcionarios y administradores dentro de una plataforma centralizada.
 
 El objetivo del proyecto es optimizar el proceso de cruce fronterizo mediante la digitalización de formularios, validaciones documentales, seguimiento de trámites e integración con organismos externos.
+
 ---
 
 # Integrantes
